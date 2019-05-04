@@ -22,8 +22,8 @@ The goals / steps of this project were to:
 [//]: # (Image References)
 
 [image1]: ./output_images/chessCalibrationImage.jpg "Undistorted"
-[image2]: ./output_images/binaryImage.png "Road Transformed"
-[image3]: ./output_images/gradientImageOftest3.jpg "Binary Example"
+[image2]: ./output_images/undistortedImageOftest3.jpg "Road Transformed"
+[image3]: ./output_images/binaryImage.jpg "Binary Example"
 [image4]: ./output_images/warpedImage.png "Warp Example"
 [image5]: ./output_images/linesFittedImageOftest3.jpg "Fit Visual"
 [image6]: ./output_images/resultOftest3.jpg "Output"
